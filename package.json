@@ -1,0 +1,20 @@
+{
+  "name": "online-store-for-girls",
+  "version": "1.0.0",
+  "description": "Online Store for Girls who love Pink This website is for practice CSS and JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ginettec93"
+  },
+  "keywords": [
+    "CSS",
+    "JavaScript",
+    "onlinestore"
+  ],
+  "author": "Ginette Carrizo <ginettecarrizo@gmail.com>",
+  "license": "MIT"
+}

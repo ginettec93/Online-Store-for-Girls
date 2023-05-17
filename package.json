@@ -4,7 +4,7 @@
   "description": "Online Store for Girls who love Pink This website is for practice CSS and JavaScript",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh pages -d src"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,8 @@
     "onlinestore"
   ],
   "author": "Ginette Carrizo <ginettecarrizo@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
 }
